@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+livekit
+livekit-api
+pipecat-ai[livekit,openai]
+openai
+sarvamai
+aiohttp
+loguru
+gunicorn
+tenacity
